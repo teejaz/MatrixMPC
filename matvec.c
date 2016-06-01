@@ -1,6 +1,6 @@
 /*
  * matrix vector multiplication: Y[] = A[][] * B[]
- *
+ *hello tejas
  */
 #include <stdio.h>
 #include <stdlib.h>
